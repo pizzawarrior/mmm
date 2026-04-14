@@ -1,4 +1,7 @@
 *.csv
+*.txt
+*.nc
 
+models/
 plots/
 .venv/
